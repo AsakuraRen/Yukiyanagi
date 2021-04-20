@@ -1,1 +1,1 @@
-<!doctype html> <html amp lang="id ID"> <head><script custom-element="amp form" src="https://cdn.ampproject.org/v0/amp-form-lastest.js" async>
+Mengenai Github,saya masih belum mengerti tentang Github dan cara memakainya
